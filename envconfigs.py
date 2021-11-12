@@ -7,7 +7,7 @@ from cdpy.datalake import CdpyDatalake
 from cdpy.datahub import CdpyDatahub
 from cdpy.dw import CdpyDw
 
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
     args = sys.argv[1:]
     message = ""
